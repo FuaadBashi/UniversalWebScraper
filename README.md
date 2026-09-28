@@ -55,4 +55,4 @@ After launching the application, open your web browser to the indicated address 
 
 Start with [streamlit_app.py](streamlit_app.py) for the interface, [scraper.py](scraper.py) for extraction, and [api_management.py](api_management.py) for provider configuration. The original README referenced [ahmedrazagit/UniversalWebScraper](https://github.com/ahmedrazagit/UniversalWebScraper); retain that provenance when reviewing this copy.
 
-Create a fresh `.venv` rather than using the checked-in `venv` directory. Configure provider credentials locally and inspect the selected provider before submitting content. Live extraction depends on website structure, browser setup, and external services.
+Create a fresh `.venv` as shown above. Configure provider credentials locally and inspect the selected provider before submitting content. Live extraction depends on website structure, browser setup, and external services.
